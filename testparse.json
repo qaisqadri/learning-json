@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "Tom",
+    "S.No": "1",
+    "Age": "28",
+    "City": "Toronto",
+    "Salary": "20000"
+  },
+  {
+    "Name": "Lee",
+    "S.No": "2",
+    "Age": "32",
+    "City": "HongKong",
+    "Salary": "3000"
+  },
+  {
+    "Name": "Steven",
+    "S.No": "3",
+    "Age": "43",
+    "City": "Bay Area",
+    "Salary": "8300"
+  },
+  {
+    "Name": "Ram",
+    "S.No": "4",
+    "Age": "38",
+    "City": "Hyderabad",
+    "Salary": "3900"
+  }
+]
